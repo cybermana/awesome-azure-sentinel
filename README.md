@@ -72,9 +72,31 @@ It's important to understand which Microsoft Cloud Service is available within w
 - [Learn how to audit Azure Sentinel activities](https://techcommunity.microsoft.com/t5/azure-sentinel/auditing-azure-sentinel-activities/ba-p/1718328)
 - [Use Private Links to ensure logs never leave your private network](https://docs.microsoft.com/en-us/azure/azure-monitor/logs/private-link-security)
 
+### Visualising log data with Azure Sentinel Workbooks
+
+- [Visualise and monitor your data with Azure Sentinel Workbooks](https://docs.microsoft.com/en-us/azure/sentinel/tutorial-monitor-your-data)
+- [Billy York's Azure Monitor Workbook Training](https://youtu.be/iGiPpD_-10M)
+- [Top Azure Sentinel Workbooks](https://docs.microsoft.com/en-gb/azure/sentinel/top-workbooks)
+- [Investigation Insights Workbook](https://techcommunity.microsoft.com/t5/azure-sentinel/announcing-the-investigation-insights-workbook/ba-p/1816903)
+- [Visualise MS Teams Collaboration in Azure Sentinel Workbooks](https://techcommunity.microsoft.com/t5/azure-sentinel/graph-visualization-of-external-teams-collaborations-in-azure/ba-p/1356847)
+- [Visualise Impossible Travel Events in Azure Sentinel Workbooks](https://techcommunity.microsoft.com/t5/azure-sentinel/how-to-use-azure-sentinel-to-follow-a-users-travel-and-map-their/ba-p/981716)
+- [Visualise Insecure Protocols in Azure Sentinel Workbooks](https://techcommunity.microsoft.com/t5/azure-sentinel/azure-sentinel-insecure-protocols-workbook-implementation-guide/ba-p/1197564)
+- [Visualse Microsoft Endpoint Manager enrolled devices in Azure Sentinel Workbooks](https://techcommunity.microsoft.com/t5/azure-sentinel/secure-working-from-home-deep-insights-at-enrolled-mem-assets/ba-p/1424255)
+- [Azure Sentinel Workbooks Gallery (Github)](https://github.com/Azure/Azure-Sentinel/tree/master/Workbooks)
+
 ### Enrich log data with threat intelligence
 
-COMING SOON
+- [Import threat intelligence into Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/import-threat-intelligence)
+- [Manage your threat indicators in Azure Sentinel](https://docs.microsoft.com/en-us/azure/sentinel/import-threat-intelligence#manage-your-threat-indicators-in-the-new-threat-intelligence-area-of-azure-sentinel)
+- [Generate alerts and incidents with Threat Intelligence Analytics](https://techcommunity.microsoft.com/t5/azure-sentinel/become-an-azure-sentinel-ninja-the-complete-level-400-training/ba-p/1246310)
+- [Visualise your threat intelligence using Azure Sentinel Workbooks](https://docs.microsoft.com/en-us/azure/sentinel/import-threat-intelligence#workbooks-provide-insights-about-your-threat-intelligence)
+- [Ingest AlienVault OTX threat intelligence into Azure Sentinel](https://azurecloudai.blog/2020/12/04/how-to-connect-alienvault-otx-to-azure-sentinel/)
+- [**Playbook**: Get Threat Intelligence from OTX](https://github.com/richlilly2004/Azure-Sentinel/tree/master/Playbooks/Get-TIfromOTX)
+
+### Enrich log data with vulnerability management data
+
+- [Integrate Vulnerability Management in Azure Sentinel](https://techcommunity.microsoft.com/t5/azure-sentinel/how-to-integrate-vulnerability-management-in-azure-sentinel/ba-p/1635728)
+- [**Playbook**: Get Tenable.IO Vulnerability Data](https://github.com/richlilly2004/Azure-Sentinel/tree/master/Playbooks/Get-TenableVulns)
 
 ### Threat Hunting with Azure Sentinel
 
